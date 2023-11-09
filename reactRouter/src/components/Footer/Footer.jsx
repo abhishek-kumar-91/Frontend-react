@@ -5,7 +5,7 @@ function Footer() {
     <>
     <div className='flex w-full bg-gray-200 px-5 items-center h-64 justify-evenly'>
     <div className='flex gap-1'>
-                <h1 className='text-white text-5xl font-extrabold'>Your</h1><h1 className='text-orange-500 text-3xl font-bold'>Logo</h1>
+                <h1 className='text-white text-5xl font-extrabold'>JustStartwith</h1><h1 className='text-orange-500 text-3xl font-bold'>React</h1>
             </div>
     <div>
         

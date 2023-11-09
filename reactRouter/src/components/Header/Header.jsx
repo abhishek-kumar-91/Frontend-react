@@ -5,7 +5,7 @@ function Header() {
     <>
         <div className='flex w-full h-16 bg-gray-200 justify-between px-5 items-center'>
             <div className='flex gap-1'>
-             <Link to="/"><h1 className='text-white text-xl cursor-pointer font-extrabold'>Your</h1><h1 className='text-orange-500 font-bold'>Logo</h1></Link>   
+             <Link to="/"><h1 className='text-white text-xl cursor-pointer font-extrabold'>JustStartWith</h1><h1 className='text-orange-500 font-bold'>React</h1></Link>   
             </div>
 
             <div>
